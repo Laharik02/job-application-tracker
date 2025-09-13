@@ -9,7 +9,7 @@ export interface Job {
   jobPortalLink: string;
   datePosted: string;
   experienceLevel: string;
-  jobType: 'Data Engineer' | 'Machine Learning Engineer' | 'AI Engineer' | 'Other';
+  jobType: 'Data Engineer' | 'Machine Learning Engineer' | 'AI Engineer' | 'Software Engineer' | 'Other';
   applicationSubmitted: boolean;
   interviewScheduled: boolean;
   jobOffered: boolean;
