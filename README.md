@@ -4,26 +4,26 @@ A comprehensive web application to help you manage and track job applications ef
 
 ## Features
 
-### 🎯 Job Application Management
+### Job Application Management
 - Track job applications with status toggles (Applied, Interview Scheduled, Job Offered)
 - Store job details: title, company, location, salary, job portal links
 - Filter and search jobs by status, type, company, and title
 - Daily job posting tracking to meet weekly goals
 
-### 📊 Statistics & Progress Tracking
+### Statistics & Progress Tracking
 - Real-time statistics dashboard showing application rates and success metrics
 - Weekly goal tracking (100 jobs/week target)
 - Interview and offer conversion rates
 - Daily job posting counters
 
-### 🎨 Smart Resume & Interview Preparation
+### Smart Resume & Interview Preparation
 - Track key qualifications for each position
 - Required tech skills tracking for tailored applications
 - Side panel with tech skills proficiency ratings
 - Priority-based skill improvement recommendations
 - Notes system for interview preparation and follow-ups
 
-### 💼 Targeted Job Types
+### Targeted Job Types
 - Data Engineer positions
 - Machine Learning Engineer roles
 - AI Engineer opportunities
